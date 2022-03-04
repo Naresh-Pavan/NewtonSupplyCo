@@ -1,0 +1,22 @@
+body{
+    font-family: 'Baskervville', serif;
+    background-color:white;
+}
+.abc{
+    text-decoration: none;
+    color:white;
+    background-color: rgb(78, 105, 78);
+    padding: 11px 15px;
+}
+.abc:hover{
+    color:white;
+}
+.x a{
+    text-decoration: none;
+    color:black;
+    padding:7px;
+}
+.y{
+    
+    color: black;
+}
